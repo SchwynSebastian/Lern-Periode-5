@@ -15,7 +15,6 @@ Ich werde eine Website erstellen
 - [ ] 
 - [ ] 
 - [ ]
-
 - [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
 
