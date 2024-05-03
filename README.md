@@ -6,16 +6,16 @@ Grob-Planung
 Ich stehe bei einer glatten 5.5. Ich war im MOdul 164 und 117 gleich stark bei einer 5.5.
 Ich habe mir vorgenommen ein kleines Spiel in der Sprache JAVA befassen
 VBV: Ich muss meine Zeit besser einteilen: Ich arbeite zu viel an etwas, dass am Ende nicht so wichtig ist; ich soll mich zuerst dem Hauptthema wenden.
-Ich werde eine Website erstellen
+Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf einer Website erstellen.
 
 3.5.2024
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich zu der 
 
 10.5.2024
-- [ ] s
-- [ ] s
-- [ ] s
-- [ ] s
+- [ ] Ein Video über die Commands von HTML anschauen und studieren
+- [ ] In Visual Studio Code HTML code erstellen für einen Grundaufbau der Website
+- [ ] Ein Video über die Commands und Funktionsweise von CSS anschauen und studieren
+- [ ] In Visual Studio Code CSS code erstellen für eine Basis Darstellung für die Website und HTML und CSS Kompatibel machen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
