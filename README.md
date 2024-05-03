@@ -12,10 +12,10 @@ Ich werde eine Website erstellen
 ✍️ Heute habe ich... (50-100 Wörter)
 
 10.5.2024
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
+- [ ] s
+- [ ] s
+- [ ] s
+- [ ] s
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
