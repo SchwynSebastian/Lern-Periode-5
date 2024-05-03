@@ -9,7 +9,7 @@ VBV: Ich muss meine Zeit besser einteilen: Ich arbeite zu viel an etwas, dass am
 Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf einer Website erstellen.
 
 3.5.2024
-✍️ Heute habe ich mich zu der 
+✍️ Heute habe ich mich zum Recherchieren neuer Themen und Möglichkeiten gewidmet. Ich habe mir Anfangs überlegt, ob ich and Java weiter Programmieren soll oder ein neues Projekt in der Sprache HTML und CSS für eine Website entscheiden soll. Am Ende habe ich mich überlegt ein kleines Spiel auf dem Browser zu erstellen und habe die meiste Zeit im Recherchieren der Programmierpsrachen (HTML am meisten) verbracht.
 
 10.5.2024
 - [ ] Ein Video über die Commands von HTML anschauen und studieren
