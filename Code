@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Privat</title>
+</head>
+
+<body>
+    <h1>Usländer Lore</h1>
+    <hr>
+    <ul>
+        <h2> David: </h2>
+        <li>
+            <img src="/Bilder/Bild2.png">
+
+        </li>
+
+        <h2> Alan: </h2>
+        <li>
+            <img src="/Bilder/Bild5.png">
+
+        </li>
+
+        <h2> Amar: </h2>
+        <li>
+            <img src="/Bilder/Bild3.png">
+
+        </li>
+
+        <h2> Anton: </h2>
+        <li>
+            <img src="/Bilder/Bild.png">
+
+        </li>
+
+        <h2> Ylli: </h2>
+        <li>
+            <img src="/Bilder/Bild4.png">
+
+        </li>
+
+        <h2> Sebastian: </h2>
+        <li>
+            <img src="/Bilder/Bild6.png">
+
+        </li>
+    </ul>
+</body>
+
+</html>
+
+
+
+--css code
+
+body {
+    background-image: url('');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+h1 {
+    text-align: center;
+    padding-top: 20%;
+}
+p {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
