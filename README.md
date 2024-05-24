@@ -20,9 +20,14 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 ✍️ Heute habe ich am Anfang der Lektion ein Video über HTML angeschaut ( hyperlinks, images, audio/video, text formatting, lists, tables, colors). Ich habe nachher in Visual Studio Code herumexperimentiert, z.B. wie ich ein Bild hineinfüge und konfiguriere, wie ich die Schrift konfigurieren kann und vieles mehr. Ich habe danach ein Video über die Hauptfunktionen von CSS angeschaut (fonts, borders, background, margins, position). Nach dem Video habe ich CSS an meiner schon vorhandenen HTML code rumexperimentiert.
 
 24.5.2024
-- [ ] eine Website über ? erstellen
-- [ ] den Grundriss, also das Hauptdesign programmieren
-- [ ] Wirtschaft aufgaben lösen und für den kommenden Mathe Test lernen.
+- [x] eine Website über ? erstellen
+- [x] den Grundriss, also das Hauptdesign programmieren
+- [x] Wirtschaft aufgaben lösen und für den kommenden Mathe Test lernen.
 - [ ] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich entschieden eine Webiste über Schach zu erstellen. Ich habe mich aber entschieden nicht den traditionellen Schach sondern eine spezielle Version von Schach zu erstellen. Bis jetzt habe ich das 8x8 Feld erstellt, und ein paar Ideen gesammelt, wie das Spiel aussehen soll. Nach dem mir die Ideen ausgegangen sind habe ich angefangen die Wirtschaft HA zu lösen und für die Mathe Prüfung (Thema Lineare Gleichungssysteme) zu lernen. 
+
+- [ ] weitere Ideen über die Website finden
+- [ ] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
+- [ ] Mein Wissen z.B die Buttons in meinem Programm anwenden
+- [ ] Interaktion in meiner Website hinzufügen, d.h. Funktionalität
