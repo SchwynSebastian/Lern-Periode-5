@@ -22,7 +22,7 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 24.5.2024
 - [ ] eine Website über ? erstellen
 - [ ] den Grundriss, also das Hauptdesign programmieren
-- [ ] "
+- [ ] Wirtschaft aufgaben lösen und für den kommenden Mathe Test lernen.
 - [ ] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
 
 ✍️ Heute habe ich... (50-100 Wörter)
