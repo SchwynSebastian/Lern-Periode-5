@@ -27,7 +27,7 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 
 ✍️ Heute habe ich mich entschieden eine Webiste über Schach zu erstellen. Ich habe mich aber entschieden nicht den traditionellen Schach sondern eine spezielle Version von Schach zu erstellen. Bis jetzt habe ich das 8x8 Feld erstellt, und ein paar Ideen gesammelt, wie das Spiel aussehen soll. Nach dem mir die Ideen ausgegangen sind habe ich angefangen die Wirtschaft HA zu lösen und für die Mathe Prüfung (Thema Lineare Gleichungssysteme) zu lernen. 
 
-- [ ] weitere Ideen über die Website finden
-- [ ] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
-- [ ] Mein Wissen z.B die Buttons in meinem Programm anwenden
-- [ ] Interaktion in meiner Website hinzufügen, d.h. Funktionalität
+- [x] weitere Ideen über die Website finden
+- [x] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
+- [x] Die Aufgaben Pipelining, PunktNotation und SortierenProjizierenSelektieren
+- [ ] DIe Buttons und forms in meiner Website hineinfügen
