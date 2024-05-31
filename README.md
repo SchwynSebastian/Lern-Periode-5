@@ -27,9 +27,19 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 
 ✍️ Heute habe ich mich entschieden eine Webiste über Schach zu erstellen. Ich habe mich aber entschieden nicht den traditionellen Schach sondern eine spezielle Version von Schach zu erstellen. Bis jetzt habe ich das 8x8 Feld erstellt, und ein paar Ideen gesammelt, wie das Spiel aussehen soll. Nach dem mir die Ideen ausgegangen sind habe ich angefangen die Wirtschaft HA zu lösen und für die Mathe Prüfung (Thema Lineare Gleichungssysteme) zu lernen. 
 
+31.05.2024
 - [x] weitere Ideen über die Website finden
 - [x] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
 - [x] Die Aufgaben Pipelining, PunktNotation und SortierenProjizierenSelektieren
 - [ ] Die Buttons und forms in meiner Website hineinfügen
 
 ✍️ Heute habe ich mich Gedanken über weitere Ideen gemacht, also wie ich sie mit Bildern gestalten soll, wie viele Funktionen es haben soll, ob ich Verlinkungen hinzufügen möchte, etc. Ich habe danach ein Tutorial angesehen wie man Buttons und Form benutzt und mein CSS teilweise erweitert. Ich habe mich nachher am Modul 122 wenden müssen, da ich früher nicht viel Zeit für diese Aufgaben gehabt habe, ein Problem war aber dass es viel länger gegangen ist als geplant und ich konnte meine Website nicht weiter ausarbeiten.
+
+7.6.2024
+- [x] eine Website über ? erstellen
+- [x] den Grundriss, also das Hauptdesign programmieren
+- [x] Wirtschaft aufgaben lösen und für den kommenden Mathe Test lernen.
+- [ ] mein Wissen über HTML (z.B. Buttons und forms lernen) und CSS erweitern (z.B. float, pseudo classes lernen)
+
+✍️ Heute habe ich...
+
