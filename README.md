@@ -44,8 +44,15 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 ✍️ Heute habe ich mich am Anfang mit dem 293 beschäftigt weil ich dort eine Projektidee für den LB gebraucht habe. Ich habe mich dan entschieden eine Website über unser Solarsystem zu erstellen. Es sollen alle 8 Planeten vorkommen und eine Verlinkung / Dropdown Menü haben, sodass man sich leicht navigieren kann. Nachdem habe ich mich weiter über CSS Funktionen erkundigt weil ich mich in diesem Bereich noch nicht so gut auskenne. Ich habe mir zu CSS ein Video über ein paar Basis Sachen angeschaut, da ich leider ein paar Sachen vergessen haben, also wie man eine spezielle Verlinkung, text konfigurieren kann. Beim letzten Arbeitspaket habe ich mein Wissen über Buttons erneut erkundigt, z.B. dass wenn man auf einem Knopf drückt, sich ein Bild ändert.
 
 14.6.2024
-- [ ] Bei meinem Solarsystem Website die Grundidee und Mockup verfeinern/erstellen
-- [ ] den Grundriss mieiner Website erstellen
-- [ ] Mich erkundigen, wie man eine Dropdown Liste erstellen kann sodass ich es in der Website einfügen kann
+- [x] Bei meinem Solarsystem Website die Grundidee und Mockup verfeinern/erstellen
+- [x] den Grundriss mieiner Website erstellen
+- [x] Mich erkundigen, wie man eine Dropdown Liste erstellen kann sodass ich es in der Website einfügen kann
 - [ ] Mich in Powershell erkundigen wie man eine gut dargestellte Automatiersung der Dateiverschiebung programmieren kann.
 
+✍️ Heute habe angefangen meine Website aufzubauen. Ich fing zuerst an mein Mockup zu verfeinern und entschied mich für die 8 Planeten unseres Sonnensystems 8 Unterseiten zu erstellen und eine Hauptseite. Danach fing ich an den Start Code zu schreiben. Ich habe Heute den Grundriss erstellt, es hat also einen Header mit einem Titel und die 8 Verlinkungen zu den Planeten, einen Animationsbereich für unser Sonnensystem einen INfo Bereich wo noch Text hinzugefügt werden muss und eine Footer mit Metainformationen. Ich habe mich am Schluss noch ein paar Video über Dropdown Listen angeschaut, werde es aber wahrscheinlich nicht in Meiner Webiste aufbauen weil es nicht nötig ist.
+
+14.6.2024
+- [ ] Meine Startseite fertig Programmieren, Text hinzufügen, die Bilder richtig Gestalten/konfigurieren und noch mehr Metainformationen hinzufügen
+- [ ] Mir überlegen wie ich meien Uterseiten schlau gestalten kann
+- [ ] Die erste Unterseite Programmieren und eine Verlinkung zurück zur Startseite aufstellen
+- [ ] Mich im Powersehll Projekt über die Dateiverschiebung weiter coden sodass man eine Textdatei hat, dort steht z.B. drin .docx, und all diese Dateien werden nicht verschoben, sondern gelöscht.
