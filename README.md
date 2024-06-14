@@ -38,8 +38,14 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 7.6.2024
 - [x] den LB im Modul 293 bearbeiten ( eine Website nach bestimmten Kriterien erstellen)
 - [ ] den LB im Modul 293 bearbeiten ( eine Website nach bestimmten Kriterien erstellen)
-- [x] mich ein Video über CSS Funktionen anschauen, wie man z.b. ein mini SPiel richtig gestalten kann.
+- [x] mich ein Video über CSS Funktionen anschauen, wie man z.b. ein mini Spiel richtig gestalten kann.
 - [x] mein Wissen über HTML (Buttons ) und verschiedene Projektideen die mir besser geeignet sind recherchieren
 
-✍️ Heute habe ich 
+✍️ Heute habe ich mich am Anfang mit dem 293 beschäftigt weil ich dort eine Projektidee für den LB gebraucht habe. Ich habe mich dan entschieden eine Website über unser Solarsystem zu erstellen. Es sollen alle 8 Planeten vorkommen und eine Verlinkung / Dropdown Menü haben, sodass man sich leicht navigieren kann. Nachdem habe ich mich weiter über CSS Funktionen erkundigt weil ich mich in diesem Bereich noch nicht so gut auskenne. Ich habe mir zu CSS ein Video über ein paar Basis Sachen angeschaut, da ich leider ein paar Sachen vergessen haben, also wie man eine spezielle Verlinkung, text konfigurieren kann. Beim letzten Arbeitspaket habe ich mein Wissen über Buttons erneut erkundigt, z.B. dass wenn man auf einem Knopf drückt, sich ein Bild ändert.
+
+14.6.2024
+- [ ] Bei meinem Solarsystem Website die Grundidee und Mockup verfeinern/erstellen
+- [ ] den Grundriss mieiner Website erstellen
+- [ ] Mich erkundigen, wie man eine Dropdown Liste erstellen kann sodass ich es in der Website einfügen kann
+- [ ] Mich in Powershell erkundigen wie man eine gut dargestellte Automatiersung der Dateiverschiebung programmieren kann.
 
