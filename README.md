@@ -58,3 +58,6 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 - [x] Mich im Powersehll Projekt über die Dateiverschiebung weiter coden sodass man eine Textdatei hat, dort steht z.B. drin .docx, und all diese Dateien werden nicht verschoben, sondern gelöscht.
 
 ✍️ Heute habe ich mich am Anfang der Lektion mit Power Shell umgesetzt. Ich habe daen PAP fertig und den Code teilweise fertig gestaltet. Nachher abe ich die meiste Zeit für meine Website aufgebraucht. ich habe Heute angefangen die Animation unseres Sonnensystem zu erstellen. Ich habe zuerst die Grundclasses für jedes Planet erstellt und nachher die Grösse, Farbe gestaltet und nachher die Distant von der Sonne bestimmt. Was mir Schwierigkeiten brachte waren die Linien zur Laufbahn der Planeten zu erstellen
+
+- [ ] Meine Unterseiten über die Planeten, also Bilder und Texte hineinfügen
+- [ ] meine Dropdown Liste fertig erstellen
