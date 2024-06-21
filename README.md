@@ -52,7 +52,7 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 ✍️ Heute habe angefangen meine Website aufzubauen. Ich fing zuerst an mein Mockup zu verfeinern und entschied mich für die 8 Planeten unseres Sonnensystems 8 Unterseiten zu erstellen und eine Hauptseite. Danach fing ich an den Start Code zu schreiben. Ich habe Heute den Grundriss erstellt, es hat also einen Header mit einem Titel und die 8 Verlinkungen zu den Planeten, einen Animationsbereich für unser Sonnensystem einen INfo Bereich wo noch Text hinzugefügt werden muss und eine Footer mit Metainformationen. Ich habe mich am Schluss noch ein paar Video über Dropdown Listen angeschaut, werde es aber wahrscheinlich nicht in Meiner Webiste aufbauen weil es nicht nötig ist.
 
 14.6.2024
-- [ ] Meine Startseite fertig Programmieren, Text hinzufügen, die Bilder richtig Gestalten/konfigurieren und noch mehr Metainformationen hinzufügen
-- [ ] Mir überlegen wie ich meien Uterseiten schlau gestalten kann
+- [x] Meine Startseite fertig Programmieren, Text hinzufügen, die Bilder richtig Gestalten/konfigurieren und noch mehr Metainformationen hinzufügen
+- [x] Mir überlegen wie ich meien Uterseiten schlau gestalten kann
 - [ ] Die erste Unterseite Programmieren und eine Verlinkung zurück zur Startseite aufstellen
-- [ ] Mich im Powersehll Projekt über die Dateiverschiebung weiter coden sodass man eine Textdatei hat, dort steht z.B. drin .docx, und all diese Dateien werden nicht verschoben, sondern gelöscht.
+- [x] Mich im Powersehll Projekt über die Dateiverschiebung weiter coden sodass man eine Textdatei hat, dort steht z.B. drin .docx, und all diese Dateien werden nicht verschoben, sondern gelöscht.
