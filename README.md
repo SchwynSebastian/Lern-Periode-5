@@ -59,5 +59,17 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 
 ✍️ Heute habe ich mich am Anfang der Lektion mit Power Shell umgesetzt. Ich habe daen PAP fertig und den Code teilweise fertig gestaltet. Nachher abe ich die meiste Zeit für meine Website aufgebraucht. ich habe Heute angefangen die Animation unseres Sonnensystem zu erstellen. Ich habe zuerst die Grundclasses für jedes Planet erstellt und nachher die Grösse, Farbe gestaltet und nachher die Distant von der Sonne bestimmt. Was mir Schwierigkeiten brachte waren die Linien zur Laufbahn der Planeten zu erstellen
 
-- [ ] Meine Unterseiten über die Planeten, also Bilder und Texte hineinfügen
-- [ ] Meine Dropdown Liste auf allen Seiten fertigstellen
+- [x] Meine Unterseiten über die Planeten, also Bilder und Texte hineinfügen
+- [x] Meine Dropdown Liste auf allen Seiten fertigstellen
+
+
+✍️ Auf meiner Website kann man sich leicht navigieren lassen und mittels einer Dropdown Liste im Header, der dich zu allen 8 PLaneten schickt. Dazu hat es beim Footer einen Link zur Datenschutzerklärung und zu meinen Kontaktdaten. Wenn man dann auf die Bilder der PLaneten hovern würde, würde sich der Planet anzeigen (vorausstehen) sodass man sieht auf welchem PLanet man drauf ist.
+
+![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/21f8f56f-ebb0-4cf6-8d40-281cf1a0496b)
+
+
+
+
+
+
+
