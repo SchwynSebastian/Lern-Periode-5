@@ -68,10 +68,16 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 
 ![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/21f8f56f-ebb0-4cf6-8d40-281cf1a0496b)
 ![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/bc05ba73-f7c4-4c61-80c6-e2442a4ec0a4)
+![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/db3d2fab-cb8e-4110-965e-33644b779630)
+![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/da409e25-7fea-4e93-a571-1da9ef192a85)
+
 
 ✍️ Auf meiner Website kann man sich leicht navigieren lassen und mittels einer Dropdown Liste im Header, der dich zu allen 8 PLaneten schickt. Dazu hat es beim Footer einen Link zur Datenschutzerklärung und zu meinen Kontaktdaten. Wenn man dann auf die Bilder der PLaneten hovern würde, würde sich der Planet anzeigen (vorausstehen) sodass man sieht auf welchem Planet man drauf ist.
 
-In dieser LP habe ich 
+Reflexion LP5:
+✍️ In dieser LP habe ich meine Zeit effektiv und prouktiv eingesetzt im Vergleich zu letzten LP. Ich habe in diesem Zeitraum viel über das Herstellen von Websiten erfahren und meine Fähigkeiten im Programmieren stark entwickelt. Ich habe gelernt wie man an einem grosen Projekt arbeitet und wie ich miene ZEit Effizient einteilen kann. Dazu habe ich auch mein Verständniss zu verschiedenen und komplizierten Situaition erweitert.
 
+Jahresreflexion: 
+In diesem Jahr habe ich viel über das Programmieren und die Arbeit an verschiedenen Aufgaben- und Vorgehensweise gelernt. Ich habe mich im Prgorammieren in vielen verschiedenen Sprachen weiterentwcikelt und viele Gemeinsamkeiten zwischen den Programmierrachen gelernt. Ich habe auch meine Fähigkeiten in einem Team oder an einem längeren Projekt zu arbeiten verbessert. Ich möchte mich aber in meiner Planung von Projekten verbessern, da ich
 
 
