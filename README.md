@@ -63,7 +63,7 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 - [x] Meine Dropdown Liste auf allen Seiten fertigstellen
 
 
-✍️ Auf meiner Website kann man sich leicht navigieren lassen und mittels einer Dropdown Liste im Header, der dich zu allen 8 PLaneten schickt. Dazu hat es beim Footer einen Link zur Datenschutzerklärung und zu meinen Kontaktdaten. Wenn man dann auf die Bilder der PLaneten hovern würde, würde sich der Planet anzeigen (vorausstehen) sodass man sieht auf welchem PLanet man drauf ist.
+✍️ Auf meiner Website kann man sich leicht navigieren lassen und mittels einer Dropdown Liste im Header, der dich zu allen 8 PLaneten schickt. Dazu hat es beim Footer einen Link zur Datenschutzerklärung und zu meinen Kontaktdaten. Wenn man dann auf die Bilder der PLaneten hovern würde, würde sich der Planet anzeigen (vorausstehen) sodass man sieht auf welchem Planet man drauf ist.
 
 ![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/21f8f56f-ebb0-4cf6-8d40-281cf1a0496b)
 
