@@ -78,6 +78,6 @@ Reflexion LP5:
 ✍️ In dieser LP habe ich meine Zeit effektiv und prouktiv eingesetzt im Vergleich zu letzten LP. Ich habe in diesem Zeitraum viel über das Herstellen von Websiten erfahren und meine Fähigkeiten im Programmieren stark entwickelt. Ich habe gelernt wie man an einem grosen Projekt arbeitet und wie ich miene ZEit Effizient einteilen kann. Dazu habe ich auch mein Verständniss zu verschiedenen und komplizierten Situaition erweitert.
 
 Jahresreflexion: 
-In diesem Jahr habe ich viel über das Programmieren und die Arbeit an verschiedenen Aufgaben- und Vorgehensweise gelernt. Ich habe mich im Prgorammieren in vielen verschiedenen Sprachen weiterentwcikelt und viele Gemeinsamkeiten zwischen den Programmierrachen gelernt. Ich habe auch meine Fähigkeiten in einem Team oder an einem längeren Projekt zu arbeiten verbessert. Ich möchte mich aber in meiner Planung von Projekten verbessern, da ich
+In diesem Jahr habe ich viel über das Programmieren und die Arbeit an verschiedenen Aufgaben- und Vorgehensweise gelernt. Ich habe mich im Prgorammieren in vielen verschiedenen Sprachen weiterentwcikelt und viele Gemeinsamkeiten zwischen den Programmierrachen gelernt. Ich habe auch meine Fähigkeiten in einem Team oder an einem längeren Projekt zu arbeiten verbessert. Ich möchte mich aber in meiner Planung von Projekten verbessern, da ich oft meine Planung nach dem Anfangen verändert habe. MIr hat am lernatelier gefallen, dass wir eine abwechslungsweise UNtericht Gestaltung haben. 
 
 
