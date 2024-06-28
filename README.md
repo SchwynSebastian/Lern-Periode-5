@@ -62,6 +62,8 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 - [x] Meine Unterseiten über die Planeten, also Bilder und Texte hineinfügen
 - [x] Meine Dropdown Liste auf allen Seiten fertigstellen
 
+✍️ Heute habe ich in der kurzen Zeit das ich hatte meine WEbsite vervollständigt. Ich habe die Website responsiv und schöner gestaltet sodass man sich leicht navigieren kann und habe noch Text und Bilder hineingfügt, sodasss der Besucher wichtige Informationen herauslesen kann.
+
 #Fertiges Projekt
 
 ![image](https://github.com/SchwynSebastian/Lern-Periode-5/assets/142606051/21f8f56f-ebb0-4cf6-8d40-281cf1a0496b)
@@ -69,7 +71,7 @@ Ich werde ein kleines Speil (z.b. Snake, Tic-Tac-Toe oder Tetris erstellen) auf 
 
 ✍️ Auf meiner Website kann man sich leicht navigieren lassen und mittels einer Dropdown Liste im Header, der dich zu allen 8 PLaneten schickt. Dazu hat es beim Footer einen Link zur Datenschutzerklärung und zu meinen Kontaktdaten. Wenn man dann auf die Bilder der PLaneten hovern würde, würde sich der Planet anzeigen (vorausstehen) sodass man sieht auf welchem Planet man drauf ist.
 
-
+In dieser LP habe ich 
 
 
 
